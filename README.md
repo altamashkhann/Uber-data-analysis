@@ -17,4 +17,4 @@ This project analyses Uber ride booking data to understand booking demand, vehic
 
 ## Output
 - Interactive HTML dashboard
-- Jupyter Notebook with full analysis
+- Jupyter Notebook with complete analysis
