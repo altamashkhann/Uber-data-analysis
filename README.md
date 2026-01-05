@@ -16,5 +16,5 @@ This project analyses Uber ride booking data to understand booking demand, vehic
 - Plotly
 
 ## Output
-- Interactive HTML dashboard
+- Interactive HTML dashboard: 🔗https://altamashkhann.github.io/Uber-data-analysis/
 - Jupyter Notebook with complete analysis
